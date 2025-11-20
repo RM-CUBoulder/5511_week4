@@ -9,6 +9,7 @@ For an optimal understanding the notebooks should be read in the following order
 2. Word-exploration.ipynb
 
 **Model Training**
+
 3. 5511-pr-week-4-model-gh.ipynb
 4. 5511-pr-week-4-model-i-gh.ipynb
 5. 5511-pr-week-4-model-ii-gh.ipynb
