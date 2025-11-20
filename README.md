@@ -18,4 +18,4 @@ For an optimal understanding the notebooks should be read in the following order
 
 **Model Evaluation**
 
-8. 5511-pr-week-4-model-eval
+8. 5511-pr-week-4-model-eval.ipynb
