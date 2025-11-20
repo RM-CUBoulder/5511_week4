@@ -19,3 +19,9 @@ For an optimal understanding the notebooks should be read in the following order
 **Model Evaluation**
 
 8. 5511-pr-week-4-model-eval.ipynb
+
+The necessary data sets are: 
+- train.csv
+- test.csv
+
+These data sets can be found on: https://www.kaggle.com/competitions/nlp-getting-started/data
