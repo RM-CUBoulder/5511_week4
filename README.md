@@ -20,6 +20,9 @@ For an optimal understanding the notebooks should be read in the following order
 
 8. 5511-pr-week-4-model-eval.ipynb
 
+**Predicting observations Test set**
+9. 5511-pr-week-4-test.ipynb 
+
 The necessary data sets are: 
 - train.csv
 - test.csv
